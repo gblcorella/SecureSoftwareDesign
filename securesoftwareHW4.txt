@@ -1,0 +1,9 @@
+Solutions to CrackMe's
+
+crackme0x00a: g00dJ0B
+Crackme0x00b: w0wgreat
+Crackme0x01: 5274
+
+Lab 1 Notes:
+
+first loop at the for loop and try and figuring out whats happening with every character. Come back or get office hour help

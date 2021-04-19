@@ -1,0 +1,11 @@
+Ret2Win Notes and Ideas:
+	Object dump and find out there is a ret2win func()
+	- objdump -d ret2win
+	- Get the offset and address we want to return to
+	- ret2win location: 0804862c
+
+Instruction point got flooded with 4 bytes. Figure out buffer for 32 and 64 bit to send with payload. Then our payload should work? 
+
+payload = address + (offset * (b'a'))
+
+	

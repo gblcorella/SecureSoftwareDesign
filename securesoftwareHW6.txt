@@ -1,0 +1,8 @@
+Solve 3 of the home-made reversing problems from the weekend, try to pick randomly from your classmates. Give them feedback on the problem. Let me know in the form which three you did and if you got value from it.
+
+Maggie - "Crack3dMe" simple string compare
+Omar - "123456" was able to crack 
+Kyle Oak - used a number, '17' 
+
+
+I got value out of all three seeing the different code writing style used to implement an insecure program. This homework taught me how to read c in radare2 and how to break down and analyze the different implementations of insecure c functions. 
